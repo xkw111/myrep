@@ -10,8 +10,9 @@ public class Hello {
         int c=1;
         System.out.println("欢迎来到github");
         System.out.println("aaaaa");
+        System.out.println("********************8");
+        System.out.println("sc2009");
     }
-    int b=1;
 
 
 }
