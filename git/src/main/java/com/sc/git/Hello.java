@@ -17,6 +17,8 @@ public class Hello {
 
     int b=1;
     int n=7;
+    Integer c=2;
+    Integer o=8;
 
 
 
