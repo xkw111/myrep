@@ -9,8 +9,13 @@ public class Hello {
         String sc="myc1号";
         int c=1;
         System.out.println("欢迎来到github");
+        System.out.println("********************8");
+        System.out.println("sc2009");
         System.out.println("aaaaa");
+        System.out.println("????");
+        System.out.println("！！！");
     }
+
     int b=1;
     int n=7;
 
