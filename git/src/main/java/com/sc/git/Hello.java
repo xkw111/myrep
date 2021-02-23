@@ -13,6 +13,7 @@ public class Hello {
         System.out.println("sc2009");
         System.out.println("aaaaa");
         System.out.println("????");
+        System.out.println("！！！");
     }
 
 
