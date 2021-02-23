@@ -4,5 +4,5 @@ public class Hello {
 
     private int i = 10;
     String name="myc";
-
+    int c=1;
 }
