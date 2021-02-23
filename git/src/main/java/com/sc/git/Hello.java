@@ -12,6 +12,6 @@ public class Hello {
         System.out.println("aaaaa");
     }
     int b=1;
-
+    int n=7;
 
 }
