@@ -9,6 +9,7 @@ public class Hello {
         String sc="myc1号";
         int c=1;
         System.out.println("欢迎来到github");
+        System.out.println("aaaaa");
     }
 
 
