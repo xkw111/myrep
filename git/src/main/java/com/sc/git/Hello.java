@@ -11,6 +11,7 @@ public class Hello {
         System.out.println("欢迎来到github");
         System.out.println("aaaaa");
     }
+    int b=1;
 
 
 }
